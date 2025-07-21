@@ -20,3 +20,11 @@ permet de pousser les madification en distant en ligne
 
 ## git log
 permet de voir l'historique des modifications en local
+
+## git branch 
+permet de creer les branches
+
+## git checkout
+- permet de passer d'une branche a une autre
+- permet de se deplacer d'une branche a une autre
+- avec le -b permet de creer une nouvelle branch si elle n'existe pas
