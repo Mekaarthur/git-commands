@@ -27,3 +27,6 @@ permet d'initialiser un repertoire
 - permet de passer d'une branche a une autre
 - permet de se deplacer d'une branche a une autre
 - avec le -b permet de creer une nouvelle branch si elle n'existe pas
+
+## git pull
+Permet de recuperer les modification en distant en ligne
