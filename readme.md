@@ -30,3 +30,14 @@ permet d'initialiser un repertoire
 
 ## git pull
 Permet de recuperer les modification en distant en ligne
+## git rebase
+- permet de Recuperer les modification dans la branche mere
+- les modification de la branche Mere placees en dessous de la branche courante
+- les modification de la branche courante placees en dessous de la branche mere
+## git reset
+- Permet de supprimer un commit
+- Permet de revenir a un commit definir par son indentification
+- Attention a utiliser avec precaution
+
+## git diff
+- Comparer deux commit
