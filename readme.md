@@ -15,5 +15,8 @@ le message est important
 ## git push 
 permet de pousser les madification en distant en ligne
 ## git status
-permet de voir et verifier le statut du repertoire
-permet de lister les modification a traiter
+- Permet de voir et verifier le statut du repertoire
+- Permet de lister les modification a traiter
+
+## git log
+permet de voir l'historique des modifications en local
