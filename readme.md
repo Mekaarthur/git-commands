@@ -30,3 +30,7 @@ permet d'initialiser un repertoire
 
 ## git pull
 Permet de recuperer les modification en distant en ligne
+## git rebase
+- permet de Recuperer les modification dans la branche mere
+- les modification de la branche Mere placees en dessous de la branche courante
+- les modification de la branche courante placees en dessous de la branche mere
